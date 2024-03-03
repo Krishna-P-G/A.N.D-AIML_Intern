@@ -22,6 +22,12 @@ This repository contains a collection of machine learning projects developed usi
 
 **Google Colab Link:** [Heart Failure Disease Prediction](https://colab.research.google.com/drive/1tzWbgkzKiLt4ydd7S9y2d_QkqLTVSVrf#scrollTo=hxvjUiZ51tNk)
 
+### 3. Credit Card Fraud Prediction
+
+**Description:** Predicting the likelihood of Credit Card Fraud using machine learning algorithms.
+
+**Google Colab Link:** [Credit Card Fraud Detection](https://colab.research.google.com/drive/1Uh8K2Gxq-0xjzLPIVy1Jxyg1g_zuiUye#scrollTo=sOfAv4umlugv)
+
 ---
 
 Feel free to explore each project for more details and insights into the prediction tasks and methodologies used. If you find these projects helpful or have any feedback, please don't hesitate to reach out.

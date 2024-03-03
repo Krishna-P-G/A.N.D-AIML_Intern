@@ -1,5 +1,7 @@
 # Machine Learning Projects
 
+This repository contains a collection of machine learning projects developed using Python libraries such as pandas, scikit-learn, matplotlib, seaborn, and XGBoost. Each project focuses on different prediction tasks and demonstrates the application of various machine learning algorithms.
+
 ## Projects
 
 ### 1. Used Car Price Prediction

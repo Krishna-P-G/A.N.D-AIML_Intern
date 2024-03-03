@@ -1,19 +1,25 @@
-There are totally 4 projects in this AI/Ml repo
+# Machine Learning Projects
 
-**Used Car Price Prediction**
+## Projects
 
-google colab link: https://colab.research.google.com/drive/1CfK1C46Q1K-WHo5q2hFxEmUi2rWz5qwz#scrollTo=B1hWjAW44igx
+### 1. Used Car Price Prediction
 
-I have predicted used car price using python libraries like panda, sklearn ,matplotlib & seaborn
+**Description:** Predicting the price of used cars using machine learning techniques.
 
-**Medical Costs Prediction**
+**Google Colab Link:** [Used Car Price Prediction](https://colab.research.google.com/drive/1CfK1C46Q1K-WHo5q2hFxEmUi2rWz5qwz#scrollTo=B1hWjAW44igx)
 
-google colab link: https://colab.research.google.com/drive/1_jGQzqc3I0T8I8z-YiinhNGTKt50z23r#scrollTo=z_6Ika2ZM1KI
+### 2. Medical Costs Prediction
 
-I have predicted medical costs using python libraries like panda, sklearn ,matplotlib & seaborn
+**Description:** Predicting medical costs using machine learning models.
 
-**Heart Failure Disease Prediction**
+**Google Colab Link:** [Medical Costs Prediction](https://colab.research.google.com/drive/1_jGQzqc3I0T8I8z-YiinhNGTKt50z23r#scrollTo=z_6Ika2ZM1KI)
 
-google colab link: https://colab.research.google.com/drive/1tzWbgkzKiLt4ydd7S9y2d_QkqLTVSVrf#scrollTo=hxvjUiZ51tNk
+### 3. Heart Failure Disease Prediction
 
-I have predicted Heart Failure Disease using python libraries like panda, sklearn ,matplotlib, seaborn and XGboost
+**Description:** Predicting the likelihood of heart failure disease occurrence using machine learning algorithms.
+
+**Google Colab Link:** [Heart Failure Disease Prediction](https://colab.research.google.com/drive/1tzWbgkzKiLt4ydd7S9y2d_QkqLTVSVrf#scrollTo=hxvjUiZ51tNk)
+
+---
+
+Feel free to explore each project for more details and insights into the prediction tasks and methodologies used. If you find these projects helpful or have any feedback, please don't hesitate to reach out.
